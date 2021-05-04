@@ -2,7 +2,7 @@
 > Created by Joshua Cleland (Proxy)  
 > Current Version: **Closed Beta**
   
-**100% Customizable** Valheim Mod Builder with no coding experience required!!  
+**100% Customizable** Valheim Mod Builder with __**no coding experience**__ required!!  
 Built in C# Compiler to allow **experienced users** to customize their mods even more!  
 Build your own plugin for ValheimX and share it with others! (Coming soon)  
 <img align="right" src="https://github.com/proxikal/ValheimX/blob/main/ValheimX-Intro-Logo.PNG?raw=true">
@@ -28,3 +28,4 @@ All you have to do is add the Prefix or Postfix class to the events system and y
 **Choose your Editor** : ValheimX doesn't have a built in IDE. so you will need to code in your favorite text editor  
 And then copy the snippets into ValheimX. We're working on a built in text editor for code, however we could never compete with  
 Sublime Text, VCode, Etc...  
+  
