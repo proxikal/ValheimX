@@ -5,7 +5,7 @@
 **100% Customizable** Valheim Mod Builder with __**no coding experience**__ required!!  
 Built in C# Compiler to allow **experienced users** to customize their mods even more!  
 Build your own plugin for ValheimX and share it with others! (Coming soon)  
-<img align="right" src="https://github.com/proxikal/ValheimX/blob/main/ValheimX-Intro-Logo.PNG?raw=true">
+<img align="right" src="https://github.com/proxikal/ValheimX/blob/main/ValheimX-Intro-Logo.png?raw=true">
   
 ## How this works
 Everything will be very simple and explained in ValheimX along with many tutorials etc.  
