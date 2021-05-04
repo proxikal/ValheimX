@@ -8,9 +8,14 @@ Build your own plugin for ValheimX and share it with others! (Coming soon)
 <img align="right" src="https://github.com/proxikal/ValheimX/blob/main/ValheimX-Intro-Logo.png?raw=true">
   
 ## How this works
-Everything will be very simple and explained in ValheimX along with many tutorials etc.  
-However, the system should be very intuitive after a few short tutorials as the main purpose is ease of use.  
+Create a new Project, Make sure to name your mod, add the author name and version.  
+Now, Decide if your mod will be Client Side, Server Side or Both (Both is default).  
+Once you've added all your features and events Save your project.  
+Build your mod using the Compiler section. This will let you know of any errors and the overall status of the build.  
+Once the DLL has been built, it will automatically be placed in the valheim BepInEx plugins folder.  
+If you don't jave BepInEx Pack for valheim installed, don't worry. ValheimX will automatically install on build. 
 
+  
 ## Chat bots, Weapon trainers and much more!
 > You'll have the ability to add functions to your mod such as Weapon trainers, Auto eat food when hungry, Auto Pickup and Farm  
 > Along with so much more! all within a few clicks.
