@@ -3,18 +3,18 @@
 > Current Version: **Closed Beta**
   
 **100% Customizable** Valheim Mod Builder with __**no coding experience**__ required!!  
-Built in C# Compiler to allow **experienced users** to customize their mods even more!  
+Built-in C# Compiler to allow **experienced users** to customize their mods even more!  
 Build your own plugin for ValheimX and share it with others! (Coming soon)  
 <img align="right" src="https://github.com/proxikal/ValheimX/blob/main/ValheimX-Intro-Logo.png?raw=true">
   
 ## How this works
-Create a new Project, Make sure to name your mod, add the author name and version.  
-Now, Decide if your mod will be Client Side, Server Side or Both (Both is default).  
-Once you've added all your features and events Save your project.  
-Build your mod using the Compiler section. This will let you know of any errors and the overall status of the build.  
-Once the DLL has been built, it will automatically be placed in the valheim BepInEx plugins folder.  
-If you don't jave BepInEx Pack for valheim installed, don't worry. ValheimX will automatically install on build. 
-
+ValheimX will do all the heavy work for you! all you have to do is pick your features  
+Add all of the extras in that you want, rather it be extra smelter recipes  
+Chat bot options, and sooo much more. the options are truly limitless..  
+**Plugins** and **Features** can be added and built by anyone and added to ValheimX  
+We'll work on a public repository for plugins and features in the future.  
+For now, We'll probably post any new plugins and features here on Github!  
+  
   
 ## Chat bots, Weapon trainers and much more!
 > You'll have the ability to add functions to your mod such as Weapon trainers, Auto eat food when hungry, Auto Pickup and Farm  
