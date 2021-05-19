@@ -1,3 +1,7 @@
+<img align="left" src="https://img.shields.io/badge/ValheimX-0.0.1-FFFFFF"> <img align="left" src="https://img.shields.io/badge/VXFramework-0.1.15-00CC00"> <img align="left" src="https://img.shields.io/badge/Smelter%20Recipes-0.1.10-cc6231"> <img align="left" src="https://img.shields.io/badge/Chat%20Bot-0.1.10-cc6231"> <img align="left" src="https://img.shields.io/badge/Trader%20List-0.1.10-cc6231">
+
+
+  
 # ValheimX
 > Created by Joshua Cleland (Proxy)  
 > Current Version: **Closed Beta**
@@ -19,7 +23,7 @@ That means __YOUR__ mod. Not someone elses!
 Which also means __YOUR__ imagination. Not someone elses.  
   
   
-  
+   
   
   
 ## Chat bots, Weapon trainers and more!
